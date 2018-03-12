@@ -2,8 +2,8 @@
   "viewports": [
     {
       "name": "desktop",
-      "width": 1280,
-      "height": 1024
+      "width": 2048,
+      "height": 1920
     }
   ],
   "scenarios": [
@@ -13,12 +13,13 @@
       "hideSelectors": [
       ],
       "removeSelectors": [
+        "#modal-dialog"
       ],
       "selectors": [
         "body"
       ],
       "readyEvent": null,
-      "delay": 500,
+      "delay": 10000,
       "misMatchThreshold" : 0.1
     }
   ]
