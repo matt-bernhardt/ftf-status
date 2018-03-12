@@ -1,0 +1,19 @@
+{
+  "name": "ftf-status",
+  "version": "0.1.0",
+  "authors": [
+    "Matt Bernhardt <matt.j.bernhardt@gmail.com>"
+  ],
+  "description": "A tool for automating screenshots for FillTheFre",
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "backstopjs": "~0.5.1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 1024
+    }
+  ],
+  "scenarios": [
+    {
+      "label": "Homepage",
+      "url": "https://www1.ticketmaster.com/columbus-crew-sc-vs-dc-united-columbus-ohio-03-24-2018/event/05005428F0375B22?artistid=805928&majorcatid=10004&minorcatid=11&tm_link=venue_msg-0_05005428F0375B22#efeat4212",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    }
+  ]
+}
